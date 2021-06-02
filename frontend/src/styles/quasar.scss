@@ -1,0 +1,9 @@
+@import './quasar.variables.scss';
+@import '~quasar-styl';
+// @import '~quasar-addon-styl';
+
+
+.grid-stack .placeholder-content {
+    background: $primary;
+    opacity: 0.2;
+  }
